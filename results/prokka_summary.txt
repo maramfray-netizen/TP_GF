@@ -1,0 +1,7 @@
+organism: Staphylococcus aureus KUN1163 
+contigs: 43
+bases: 2908536
+CDS: 2717
+rRNA: 15
+tRNA: 54
+tmRNA: 1

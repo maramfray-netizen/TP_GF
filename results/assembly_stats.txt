@@ -1,0 +1,2 @@
+file            format  type  num_seqs    sum_len  min_len   avg_len  max_len
+asm/contigs.fa  FASTA   DNA         43  2,908,536      128  67,640.4  416,029
