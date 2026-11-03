@@ -1,5 +1,0 @@
-file                      format  type  num_seqs      sum_len  min_len  avg_len  max_len
-raw/DRR187559_1.fastq.gz  FASTQ   DNA    451,782   86,220,364       50    190.8      301
-raw/DRR187559_2.fastq.gz  FASTQ   DNA    451,782  100,061,490       50    221.5      301
-trimmed/R1.fq.gz          FASTQ   DNA    451,781   86,212,601       33    190.8      301
-trimmed/R2.fq.gz          FASTQ   DNA    451,781  100,000,659       33    221.3      301
